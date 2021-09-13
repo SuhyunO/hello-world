@@ -1,3 +1,4 @@
 # hello-world
 [Open SW Platform] Week2 In-lab Exercise
-Hello. My name is OhSuhyun.
+
+Hello. I've just made a first repository and a branch!
